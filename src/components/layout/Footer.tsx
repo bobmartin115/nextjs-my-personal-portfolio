@@ -16,7 +16,7 @@ export function Footer() {
           </p>
         </div>
 
-        <SocialIcons variant="footer" />
+        {/* <SocialIcons variant="footer" /> */}
       </div>
     </footer>
   );
