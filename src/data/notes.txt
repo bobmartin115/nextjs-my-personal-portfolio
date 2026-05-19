@@ -1,0 +1,88 @@
+💼 Professional Experience
+Senior Software Engineer / Full Stack Developer (2011 – Present)
+🔹 Parkmobile — Junior Software Developer
+
+Vinings, GA | Feb 2011 – Dec 2012
+
+Built RESTful web services for mobile applications using ASP.NET MVC and C#.
+Improved online ordering and backend service performance.
+Developed APIs using WCF, MSMQ, JSON, and REST architecture.
+
+Tech Stack: ASP.NET MVC, C#, WCF, REST, JSON, MSMQ, JavaScript
+
+🔹 Snapfinger — Junior Developer
+
+Atlanta, GA | Feb 2013 – May 2013
+
+Developed HR platform for enterprise client (Walgreens).
+Worked on Azure cloud deployment and backend services.
+Optimized SQL queries and database performance.
+
+Tech Stack: Azure, WCF, Silverlight, SQL Server, Entity Framework, MEF
+
+🔹 Real Estate Platform — Software Developer
+
+Aug 2013 – Nov 2015 | Atlanta, GA
+
+Built enterprise real estate management system using ASP.NET MVC and Web API.
+Improved database performance through schema and query optimization.
+Developed scalable backend services and UI components.
+
+Tech Stack: ASP.NET MVC, Web API, C#, SQL Server, Entity Framework, ExtJS
+
+🔹 AT&T — Software Engineer
+
+Alpharetta, GA
+
+Developed enterprise telecom and IT systems for large-scale customers.
+Built and maintained backend services and APIs.
+Worked on enterprise network and cloud-based solutions in a consulting-style environment.
+🔹 Norfolk Southern — Application Developer
+
+Atlanta, GA | 2015 – 2017
+
+Developed distributed messaging systems using Java, JMS, and TCP sockets.
+Built high-performance multithreaded backend systems.
+Worked on Kafka-based log aggregation and Cassandra clusters.
+Performed JVM tuning, performance optimization, and system monitoring.
+Integrated logging systems with Splunk and built admin monitoring tools.
+
+Tech Stack: Java, JMS, Kafka, Cassandra, Oracle, Hibernate, Splunk, JavaScript
+
+🔹 Elavon — Senior Software Engineer
+
+Atlanta, GA | 2017 – 2019
+
+Developed payment processing systems (credit/debit, POS, eCommerce).
+Built responsive web applications using Angular, React, and JavaScript frameworks.
+Integrated REST/SOAP APIs for fintech systems.
+Worked across full SDLC: design, development, testing, deployment.
+Contributed to fraud detection and secure transaction systems.
+
+Tech Stack: Java, Spring Boot, .NET, Angular, React, REST APIs, Cloud
+
+🔹 Manhattan Associates — Senior Software Engineer
+
+Atlanta, GA | 2019 – 2025
+
+Developed supply chain and warehouse management (WMS) enterprise software.
+Built scalable web applications using Angular, React, Java, and Node.js.
+Led Angular version upgrades (Angular 2 → 8) and performance optimization.
+Developed microservices and REST APIs for enterprise logistics systems.
+Implemented CI/CD pipelines using Jenkins and AWS.
+Worked on automated testing (Selenium, Cucumber, Jasmine, JUnit).
+Contributed to UI architecture, backend services, and system scalability.
+
+Tech Stack: Angular, React, Java, Spring Boot, Node.js, AWS, Jenkins, SQL
+
+🔹 KGS Technologies — Senior Software Engineer (Consulting)
+
+Atlanta, GA | Jan 2025 – Present
+
+Developed Python Flask backend APIs for React applications.
+Built internal GenAI assistant using RAG (vector search + embeddings).
+Integrated third-party APIs and implemented CI/CD pipelines (GitHub Actions).
+Worked in Agile team environment with sprint planning and code reviews.
+Delivered scalable AI-driven enterprise solutions.
+
+Tech Stack: Python, Flask, React, REST APIs, GitHub Actions, AI/LLM, CI/CD
