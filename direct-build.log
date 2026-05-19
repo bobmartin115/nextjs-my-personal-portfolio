@@ -1,0 +1,8 @@
+Need to install the following packages:
+node@20.20.2
+Ok to proceed? (y) ▲ Next.js 16.2.6 (Turbopack)
+- Environments: .env.local
+- Experiments (use with caution):
+  · optimizePackageImports
+
+  Creating an optimized production build ...

@@ -1,5 +1,3 @@
-"use client";
-
 import { portfolioData } from "@/data/portfolio";
 
 export function StructuredData() {
