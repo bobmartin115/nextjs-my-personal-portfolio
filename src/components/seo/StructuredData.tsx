@@ -7,7 +7,7 @@ export function StructuredData() {
     name: portfolioData.name,
     jobTitle: portfolioData.role,
     description: portfolioData.about,
-    url: "https://portfolio-zeta-sandy-88.vercel.app",
+    url: "https://portfolio-bob-martin-995115.app",
     sameAs: portfolioData.social
       .filter((s) => s.platform !== "Email")
       .map((s) => s.url),
