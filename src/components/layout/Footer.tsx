@@ -1,6 +1,5 @@
 import React from "react";
 import { portfolioData } from "@/data/portfolio";
-import { SocialIcons } from "@/components/ui/SocialIcons";
 
 export function Footer() {
   return (
@@ -15,8 +14,6 @@ export function Footer() {
             Built with &#10084; in Antigravity
           </p>
         </div>
-
-        {/* <SocialIcons variant="footer" /> */}
       </div>
     </footer>
   );

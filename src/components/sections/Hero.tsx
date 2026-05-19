@@ -6,7 +6,6 @@ import { motion } from "framer-motion";
 import { TbArrowRight, TbDownload } from "react-icons/tb";
 import Link from "next/link";
 import Image from "next/image";
-import { SocialIcons } from "@/components/ui/SocialIcons";
 
 export const HeroSection = React.memo(function HeroSection() {
   const handleScrollToProjects = (e: React.MouseEvent<HTMLAnchorElement>) => {
@@ -51,8 +50,7 @@ export const HeroSection = React.memo(function HeroSection() {
             </p>
 
             <div className="flex flex-col items-center lg:items-start gap-8">
-              {/* Social Media Icons */}
-              {/* <SocialIcons variant="default" /> */}
+              
 
               {/* Buttons */}
               <div className="flex flex-row flex-wrap items-center justify-center lg:justify-start gap-4">
