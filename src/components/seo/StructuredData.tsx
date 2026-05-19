@@ -7,8 +7,7 @@ export function StructuredData() {
     name: portfolioData.name,
     jobTitle: portfolioData.role,
     description: portfolioData.about,
-    url: "https://www.vipuljha.com",
-    image: "https://www.vipuljha.com/images/profile.webp",
+    url: "https://nextjs-my-personal-portfolio.vercel.app/",
     sameAs: portfolioData.social
       .filter((s) => s.platform !== "Email")
       .map((s) => s.url),
@@ -32,7 +31,7 @@ export function StructuredData() {
     "@type": "WebSite",
     name: `${portfolioData.name} Portfolio`,
     description: portfolioData.about,
-    url: "https://www.vipuljha.com",
+    url: "https://nextjs-my-personal-portfolio.vercel.app/",
     author: {
       "@type": "Person",
       name: portfolioData.name,
